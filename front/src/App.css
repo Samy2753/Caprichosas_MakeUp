@@ -20,14 +20,14 @@ body {
 }
 
 ::-webkit-scrollbar-thumb {
-  background-color: rgba(66, 66, 66, 0.2);
+  background-color: rgba(175, 236, 236, 0.2);
   border: 0px;
   background-clip: padding-box;
   border-radius: 5px;
 }
 
 nav {
-  background-color: #232f3e;
+  background-color: #650e6e;
   padding: 1rem 1rem;
 }
 
